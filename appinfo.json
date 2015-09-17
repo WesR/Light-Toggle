@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Wes Ring",
+    "longName": "Light Toggle",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Light Toggle",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "7263ac1d-3b04-4936-805c-03830396e0ff",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
